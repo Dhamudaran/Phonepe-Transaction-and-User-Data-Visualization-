@@ -1,5 +1,5 @@
-streamlit_pandas_profiling 
-streamlit_player 
+streamlit_pandas_profiling
+streamlit_player
 streamlit_extras
 streamlit
 pandas
