@@ -1,3 +1,4 @@
+streamlit_pandas_profiling 
 streamlit_player 
 streamlit
 pandas
