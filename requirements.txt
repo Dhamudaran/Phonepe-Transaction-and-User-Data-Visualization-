@@ -4,3 +4,4 @@ matplotlib
 seaborn
 plotly
 ydata_profiling
+setuptools==68.2.2
