@@ -6,5 +6,5 @@ pandas
 matplotlib
 seaborn
 plotly
-ydata_profiling
+ydata-profiling==4.6.0
 setuptools==68.2.2
